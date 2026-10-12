@@ -1,0 +1,7 @@
+{
+  "name": "Pixel Leap 2D",
+  "description": "Juego de plataformas 2D con generación procedural de niveles, controles táctiles y personalizados, banda sonora dinámica, guardado en la nube y tablas de clasificación mundial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
